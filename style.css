@@ -1,0 +1,36 @@
+body{
+    background-color: #E9ECEF;
+}
+.mt1 {
+    margin-left: 550px;
+}
+.mb2{
+    margin-left: 240px;
+    text-decoration: none;
+}
+.font {
+    text-decoration: none;
+}
+.font1 {
+    color: goldenrod; 
+    min-width: none; 
+    margin-left: 610px; 
+    font-size:x-large;
+}
+.text {
+    margin-left: 740px;
+}
+.text-center {
+    background-color: blue;
+    text-decoration: none;
+}
+.btn {
+    margin-left: 730px;
+}
+.mx-auto {
+    width: 200px;
+}
+.products-header {    
+    margin-right: 300px;
+    
+}
